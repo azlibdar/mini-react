@@ -10,3 +10,4 @@ A collection of mini projects built while learning React. Feel free to explore, 
 | 02 | Accordion Dependent | [Get Source Code](https://github.com/azlibdar/r-accordion-dependent) | [Preview](https://accordion-dependent.netlify.app/) |
 | 03 | Get Advices (API) | [Get Source Code](https://github.com/azlibdar/r-get-advices) | [Preview](https://get-advices.netlify.app/) |
 | 04 | Star Rating | [Get Source Code](https://github.com/azlibdar/r-star-rating) | [Preview](https://r-star-rating.netlify.app/) |
+| 05 | Text Expander | [Get Source Code](https://github.com/azlibdar/r-text-expander) | [Preview](https://r-text-expander.netlify.app/) |
