@@ -11,3 +11,4 @@ A collection of mini projects built while learning React. Feel free to explore, 
 | 03 | Get Advices (API) | [Get Source Code](https://github.com/azlibdar/r-get-advices) | [Preview](https://get-advices.netlify.app/) |
 | 04 | Star Rating | [Get Source Code](https://github.com/azlibdar/r-star-rating) | [Preview](https://r-star-rating.netlify.app/) |
 | 05 | Text Expander | [Get Source Code](https://github.com/azlibdar/r-text-expander) | [Preview](https://r-text-expander.netlify.app/) |
+| 06 | Multistep Form | [Get Source Code](https://github.com/azlibdar/r-multistep-form) | [Preview](https://r-multistep-form.netlify.app/) |
