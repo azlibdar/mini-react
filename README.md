@@ -16,3 +16,4 @@ A collection of mini projects built while learning React. Feel free to explore, 
 | 08 | Hacker News | [Get Source Code](https://github.com/azlibdar/hacker-news) | [Preview](https://r-hacker-news.netlify.app/) |
 | 09 | Multistep Form (useReducer) | [Get Source Code](https://github.com/azlibdar/r-multistep-form-reducer) | [Preview](https://r-multistep-form.netlify.app/) |
 | 10 | Add To Cart | [Get Source Code](https://github.com/azlibdar/r-add-to-cart) | [Preview](https://r-add-to-cart.netlify.app/) |
+| 11 | Highlight and Share | [Get Source Code](https://github.com/azlibdar/r-highlight-and-share) | [Preview](https://highlight-and-share.netlify.app/) |
